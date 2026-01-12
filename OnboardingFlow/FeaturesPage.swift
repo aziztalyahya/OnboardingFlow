@@ -20,6 +20,8 @@ struct FeaturesPage: View {
             
             FeatureCard(iconName: "quote.bubble.fill", description: "Short summary")
             
+            FeatureCard(iconName: "quote.bubble.fill", description: "The third card")
+            
                 Spacer()
 
         }
